@@ -51,24 +51,7 @@ function Header1() {
                 </NavDropdown.Item>
               </NavDropdown>
             </Nav>
-            {/* <Form className="d-flex w-50">
-              <div className="input-group">
-                <Form.Control
-                  type="search"
-                  placeholder="Search for Product"
-                  className="form-control"
-                  aria-label="Search"
-                />
-                <span className="input-group-text bg-white">
-                  <FaSearch />
-                </span>
-              </div>
-
-           
-              <Button variant="outline-success" className="ms-2">
-        Search
-      </Button>
-            </Form> */}
+            
           </Navbar.Collapse>
         </Container>
       </Navbar>
